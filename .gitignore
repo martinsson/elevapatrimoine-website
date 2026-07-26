@@ -1,1 +1,22 @@
+# nwave
 .nwave
+# build output
+dist/
+# dependencies
+node_modules/
+# generated types
+.astro/
+# environment
+.env
+.env.production
+# macOS
+.DS_Store
+# logs
+npm-debug.log*
+# scratch
+_to_delete/
+eleva-scaffold.tar.gz
+# internal notes / local tooling (not for the public repo)
+RESUME.md
+PROJECT_NOTES.md
+setup.sh
